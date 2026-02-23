@@ -42,6 +42,7 @@
 - [OpenAI Swarm](https://github.com/openai/swarm) – Lightweight agent team coordination for Python.
 - [CrewAI](https://github.com/crewai-inc/crewai) – Multi-agent task orchestration through role-based collaboration.
 - [DeerFlow](https://github.com/bytedance/deer-flow) – Research agent framework with web browsing, crawling, and Python execution.
+- [OpenAgents](https://github.com/openagents-org/openagents) – Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A) and multi-agent orchestration.
 
 ## Platforms
 
