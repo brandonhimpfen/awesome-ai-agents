@@ -71,6 +71,7 @@
 - [LangGraph Tutorials](https://github.com/langchain-ai/langgraph/tree/main/examples) – Tutorials for building agent workflows.
 - [CrewAI Learning Resources](https://github.com/crewai-inc/crewai) – Documentation and guided tutorials.
 - [SmolAgents Tutorials](https://github.com/huggingface/smolagents) – Examples of code-first agent development.
+- [Learn Agentic Patterns](https://learnagenticpatterns.com) – Free interactive curriculum covering 21 agentic AI design patterns with code examples and interactive games.
 
 ## Related Awesome Lists
 
