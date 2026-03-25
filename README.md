@@ -42,7 +42,8 @@
 - [OpenAI Swarm](https://github.com/openai/swarm) – Lightweight agent team coordination for Python.
 - [CrewAI](https://github.com/crewai-inc/crewai) – Multi-agent task orchestration through role-based collaboration.
 - [DeerFlow](https://github.com/bytedance/deer-flow) – Research agent framework with web browsing, crawling, and Python execution.
-- [OpenAgents](https://github.com/openagents-org/openagents) – Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A) and multi-agent orchestration.
+- [Bosun](https://github.com/virtengine/bosun) – Open source workflow and control framework for engineering-focused AI agents.
+- [OpenAgents](https://github.com/openagents-org/openagents) – Open source platform for building multi-agent systems with protocol-based communication and orchestration.
 
 ## Platforms
 
@@ -72,6 +73,7 @@
 - [LangGraph Tutorials](https://github.com/langchain-ai/langgraph/tree/main/examples) – Tutorials for building agent workflows.
 - [CrewAI Learning Resources](https://github.com/crewai-inc/crewai) – Documentation and guided tutorials.
 - [SmolAgents Tutorials](https://github.com/huggingface/smolagents) – Examples of code-first agent development.
+- [Learn Agentic Patterns](https://learnagenticpatterns.com/) – Interactive curriculum covering agentic AI design patterns, including planning, tool use, and multi-step workflows.
 
 ## Related Awesome Lists
 
@@ -82,7 +84,9 @@
 
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
