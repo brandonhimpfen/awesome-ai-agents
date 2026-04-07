@@ -34,6 +34,7 @@
 - [Rasa](https://github.com/RasaHQ/rasa) – Conversational agent framework with NLU and dialogue management.
 - [Botpress](https://github.com/botpress/botpress) – Platform for conversational and task-focused agents.
 - [Mastra](https://github.com/mastra-ai/mastra) – TypeScript/Node.js framework for agentic applications.
+- [Kitaru](https://github.com/zenml-io/kitaru) – Durable execution layer for AI agents with checkpoints, replay, resume, wait, and memory — no graph DSL required.
 
 ## Multi-Agent Orchestration
 
