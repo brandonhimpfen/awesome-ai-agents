@@ -35,6 +35,8 @@
 - [Botpress](https://github.com/botpress/botpress) – Platform for conversational and task-focused agents.
 - [Mastra](https://github.com/mastra-ai/mastra) – TypeScript/Node.js framework for agentic applications.
 - [Kitaru](https://github.com/zenml-io/kitaru) – Durable execution framework for AI agents with checkpoints, replay, and stateful workflows using Python control flow.
+- [toprank](https://github.com/nowork-studio/toprank) – Open-source Claude Code plugin providing SEO and Google Ads skills, including meta tag optimization, schema markup, keyword bids, and CMS content pushes.
+
 
 ## Multi-Agent Orchestration
 
