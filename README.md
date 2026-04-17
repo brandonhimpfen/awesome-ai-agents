@@ -45,6 +45,7 @@
 - [DeerFlow](https://github.com/bytedance/deer-flow) – Research agent framework with web browsing, crawling, and Python execution.
 - [Bosun](https://github.com/virtengine/bosun) – Open source workflow and control framework for engineering-focused AI agents.
 - [OpenAgents](https://github.com/openagents-org/openagents) – Open source platform for building multi-agent systems with protocol-based communication and orchestration.
+- [Qualixar OS](https://github.com/qualixar/qualixar-os) – Universal AI agent runtime with 13 execution topologies, Forge AI auto-team-designer, judge pipeline, and local-first operation. arXiv:2604.06392.
 
 ## Platforms
 
