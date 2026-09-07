@@ -47,6 +47,7 @@
 - [DeerFlow](https://github.com/bytedance/deer-flow) – Research agent framework with web browsing, crawling, and Python execution.
 - [Bosun](https://github.com/virtengine/bosun) – Open source workflow and control framework for engineering-focused AI agents.
 - [OpenAgents](https://github.com/openagents-org/openagents) – Open source platform for building multi-agent systems with protocol-based communication and orchestration.
+- [YYLO](https://github.com/yylo-dev/yylo) – Command-line orchestrator for coding agents: each task runs in a dedicated branch/worktree with typed validation and merge boundaries.
 
 ## Platforms
 
