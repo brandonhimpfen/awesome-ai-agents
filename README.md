@@ -37,6 +37,7 @@
 - [Botpress](https://github.com/botpress/botpress) – Platform for conversational and task-focused agents.
 - [Mastra](https://github.com/mastra-ai/mastra) – TypeScript/Node.js framework for agentic applications.
 - [Kitaru](https://github.com/zenml-io/kitaru) – Durable execution framework for AI agents with checkpoints, replay, and stateful workflows using Python control flow.
+- [Reactive Agents](https://github.com/tylerjrbuell/reactive-agents-ts) – TypeScript agent framework that runs the same agent code on a local Ollama model (4B+) or a frontier API, with tool-call healing, output verification, and a per-run evidence receipt. Effect-TS type safety, MCP-native, A2A multi-agent, 8 reasoning strategies.
 
 ## Multi-Agent Orchestration
 
