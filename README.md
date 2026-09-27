@@ -52,6 +52,7 @@
 ## Platforms
 
 - [Agno AgentOS](https://www.agno.com/) – Hosted and self-hosted agent operating system.
+- [aiFetchly](https://www.aifetchly.com) – Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows.
 - [Microsoft Agent Framework](https://www.microsoft.com/en-us/research/project/autogen/) – Enterprise agent stack around AutoGen/AG2.
 - [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) – Managed platform for search, conversation, and tool-using agents.
 - [Botpress Cloud](https://botpress.com/) – Hosted agent creation and deployment platform.
