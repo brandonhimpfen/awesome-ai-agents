@@ -39,6 +39,7 @@
 - [Kitaru](https://github.com/zenml-io/kitaru) – Durable execution framework for AI agents with checkpoints, replay, and stateful workflows using Python control flow.
 
 ## Multi-Agent Orchestration
+- [AI Group Call](https://aigroupcall.app) - Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items.
 
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Graph-based workflows for multi-agent and stateful systems.
 - [LangFlow](https://github.com/langflow-ai/langflow) – Visual builder for LangChain/LangGraph flows.
