@@ -55,6 +55,7 @@
 - [Microsoft Agent Framework](https://www.microsoft.com/en-us/research/project/autogen/) – Enterprise agent stack around AutoGen/AG2.
 - [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) – Managed platform for search, conversation, and tool-using agents.
 - [Botpress Cloud](https://botpress.com/) – Hosted agent creation and deployment platform.
+- [Tale](https://tale.dev/) – Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 
 ## Starter Kits
 
